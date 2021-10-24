@@ -1,0 +1,5 @@
+\\192.168.122.1\home\don\src-ag\don\WPFHelloWorld\WPFHelloWorld\bin\publish\WPFHelloWorld.exe
+\\192.168.122.1\home\don\src-ag\don\WPFHelloWorld\WPFHelloWorld\bin\publish\WPFHelloWorld.dll
+\\192.168.122.1\home\don\src-ag\don\WPFHelloWorld\WPFHelloWorld\bin\publish\WPFHelloWorld.deps.json
+\\192.168.122.1\home\don\src-ag\don\WPFHelloWorld\WPFHelloWorld\bin\publish\WPFHelloWorld.runtimeconfig.json
+\\192.168.122.1\home\don\src-ag\don\WPFHelloWorld\WPFHelloWorld\bin\publish\WPFHelloWorld.pdb
